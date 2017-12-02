@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-1
-subtitle: Position
+title: Dan
+name: Name-3
+subtitle: Dog-dad
 layout: site_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
+img: Dan.jpg
+thumbnail: Dan.jpg
+alt: Picture of Dan
 topic: Topic
 description: More Info
 ---

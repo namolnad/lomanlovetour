@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-3
-subtitle: Position
+title: Becca
+name: Name-1
+subtitle: Dog-mom
 layout: site_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
+img: Becca.jpg
+thumbnail: Becca.jpg
+alt: Picture of Becca
 topic: Topic
 description: More Info
 ---
