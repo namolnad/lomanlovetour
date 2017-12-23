@@ -1,24 +1,24 @@
 <!-- Portfolio Grid Section -->
-    <section id="speakers" class="bg-light-gray">
+    <section id="our_story" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Team Members</h2>
+                    <h2 class="section-heading">Our Story</h2>
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
             <div class="row">
-            {% for post in site.categories.site_teams %}
-                <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <div class="speakers-hover">
-                            <div class="speakers-hover-content">
+            {% for post in site.categories.site_stories %}
+                <div class="col-md-4 col-sm-6 family-item">
+                    <a href="#{{ post.name }}" class="family-link" data-toggle="modal">
+                        <div class="family-hover">
+                            <div class="family-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="../css/site_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/site_style/img/story/family/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="speakers-caption">
+                    <div class="family-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
                     </div>

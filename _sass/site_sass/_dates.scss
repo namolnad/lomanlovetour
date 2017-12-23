@@ -1,4 +1,4 @@
-.about {
+.dates {
     padding: 5%;
     margin: 30px 15vw 30px 15vw;
 
@@ -20,7 +20,7 @@
         color: white;
         padding: 5px 5px 5px 10px;
         -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
-        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);       
+        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
     }
     h2.first {
          width: 190px;
@@ -33,31 +33,31 @@
     }
 }
 
-.about-container-top {
+.dates-container-top {
   margin-top: 100px;
 }
 
-.about-container-bottom {
+.dates-container-bottom {
   margin-bottom: 60px;
 }
 
 @media screen and (max-width : 1200px){
-  .about {
+  .dates {
       margin: 20px 10vw 20px 10vw;
   }
-  .about-container-top {
+  .dates-container-top {
     margin-top: 100px;
   }
-  .about-container-bottom {
+  .dates-container-bottom {
     margin-bottom: 80px;
   }
 }
 
 @media screen and (max-width : 760px){
-  .about {
+  .dates {
       margin: 10px 10px 10px 10px;
   }
-  .about-container-top {
+  .dates-container-top {
     margin-top: 80px;
   }
   h1 {
