@@ -1,6 +1,6 @@
 ---
 title: The Engagement
-name: Name-2
+name: the_engagement
 subtitle: 1/23/2015
 layout: site_default
 modal-id: 1

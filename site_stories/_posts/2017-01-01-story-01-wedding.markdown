@@ -1,6 +1,6 @@
 ---
-title: The Meeting
-name: Name-1
+title: The Wedding
+name: the_wedding
 subtitle: 9/13/2014
 layout: site_default
 modal-id: 1
