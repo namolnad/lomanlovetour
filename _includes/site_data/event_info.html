@@ -13,7 +13,9 @@
                    <div class="col-lg-8 col-lg-offset-2">
                        <div class="modal-body">
                            <h2>{{ post.title }}</h2>
+                           {% if post.img %}
                            <img src="../css/site_style/img/story/family/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                           {% endif %}
                            <hr class="star-primary">
                            <h3>{{ post.topic }}</h3>
                            <p>{{ post.description }}</p>
