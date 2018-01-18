@@ -1,0 +1,12 @@
+---
+title: Registry
+name: the_registry
+layout: site_default
+img: zola.jpg
+link: https://www.zola.com/registry/danlovesbecca
+
+---
+
+For those who would like to purchase a gift for the happy couple, Becca and Dan have chosen to register at Zola. You'll find links to the registry below.
+
+↓↓↓

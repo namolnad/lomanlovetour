@@ -96,7 +96,21 @@ h4 {
 }
 
 .img-max-450 {
-  max-width:450px;
+    max-width:450px;
+}
+
+.img-max-550 {
+    max-width:550px;
+}
+
+.img-bordered {
+  border: 3px solid black;
+  border-radius: 4px;
+}
+
+.padded {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 aside.clients {
