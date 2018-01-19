@@ -1,15 +1,17 @@
 <!-- Services Section -->
-{% for post in site.categories.site_registry %}
 <section id="registry">
+  {% for post in site.categories.site_registry %}
   <div class="col-lg-12 text-center">
     <h2 class="section-heading">{{ post.title }}</h2>
     <p>{{ post.content }}</p>
-    <a href="{{ post.link }}" target="_blank">
-      <img src="../css/site_style/img/registry/{{ post.img }}" class="img-responsive img-centered img-max-550 img-bordered"></img>
-    </a>
-</div>
-<div class="col-lg-12 text-center padded">
-  <a href="{{ post.link }}" class="btn btn-sm" target="_blank">Visit Registry</a>
-</div>
+    <div class="max-width-550 centered">
+      <a href="{{ post.link }}" target="_blank">
+        <img src="../css/site_style/img/registry/{{ post.img }}" class="img-responsive img-bordered">
+      </a>
+    </div>
+  </div>
+  <div class="col-lg-12 text-center padded">
+    <a href="{{ post.link }}" class="btn btn-sm" target="_blank">Visit Registry</a>
+  </div>
+  {% endfor %}
 </section>
-{% endfor %}

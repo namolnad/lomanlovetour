@@ -1,7 +1,7 @@
 ---
 title: The Meeting
 name: the_meeting
-subtitle: 10/13/2017
+subtitle: 9/13/2014
 layout: site_default
 modal-id: 1
 img: ../../first_run.jpg

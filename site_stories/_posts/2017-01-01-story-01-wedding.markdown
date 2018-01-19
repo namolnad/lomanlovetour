@@ -1,7 +1,7 @@
 ---
 title: The Wedding
 name: the_wedding
-subtitle: 9/13/2014
+subtitle: 10/13/2017
 layout: site_default
 modal-id: 1
 img: ../../first_kiss_thumbnail.jpg
