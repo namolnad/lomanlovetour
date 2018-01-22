@@ -4,8 +4,8 @@ name: the_meeting
 subtitle: 9/13/2014
 layout: site_default
 modal-id: 1
-img: ../../first_run.jpg
-thumbnail: ../../first_run.jpg
+img: first_run.jpg
+thumbnail: first_run.jpg
 description_header: How Becca and Dan became Danecca
 ---
 Becca and Dan met the morning of a group trail run which had been arranged by several of their mutual friends. After briefly introducing themselves to each other at a coffee shop that morning, they carpooled in Becca's car, 'Boop', to the trailhead. Dan then pretended he could keep with her during the run — unsurprisingly, it turns out it was indeed nothing more than pretending...

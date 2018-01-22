@@ -1,7 +1,7 @@
 title: Loman Love Tour
 description: Becca and Dan's Wedding Tour!
 baseurl: "" # the subpath of your site, e.g. /blog FIXME
-url: "Your-Link.github.io" # the base hostname & protocol for your site # FIXME
+url: "https://namolnad.github.io/lomanlovetour"
 # Build settings
 markdown: kramdown
 
