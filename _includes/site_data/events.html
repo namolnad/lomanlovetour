@@ -10,48 +10,27 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="../css/site_style/img/state_outlines/california.png" alt="">
+                      {% for post in site.categories.site_event_info %}
+                      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+                      {% if thecycle == 'odd' %}
+                      <li>
+                      {% else %}
+                      <li class="timeline-inverted">
+                      {% endif %}
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="../css/site_style/img/state_outlines/{{ post.state_outline }}">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>{{ post.title }}</h4>
                             </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>California</h4>
-                                </div>
-                                <div class="timeline-heading">
-                                    <p class="text-muted">Truckee, CA - June 23rd</p>
-                                </div>
-                                <a href="#california" class="page-scroll btn btn-sm" data-toggle="modal">Learn More</a>
+                            <div class="timeline-heading">
+                                <p class="text-muted">{{ post.date_details }}</p>
                             </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="../css/site_style/img/state_outlines/minnesota.png" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>Minnesota</h4>
-                                </div>
-                                <div class="timeline-heading">
-                                    <p class="text-muted">Minneapolis, MN - July 21st</p>
-                                </div>
-                                <a href="#minnesota" class="page-scroll btn btn-sm" data-toggle="modal">Learn More</a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="../css/site_style/img/state_outlines/montana.png" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>Montana</h4>
-                                </div>
-                                <div class="timeline-heading">
-                                    <p class="text-muted">Whitefish, MT - August 25th</p>
-                                </div>
-                                <a href="#montana" class="page-scroll btn btn-sm" data-toggle="modal">Learn More</a>
-                            </div>
-                        </li>
+                            <a href="#{{ post.name }}" class="page-scroll btn btn-sm" data-toggle="modal">Learn More</a>
+                        </div>
+                      </li>
+                      {% endfor %}
                     </ul>
                 </div>
             </div>

@@ -1,5 +1,7 @@
 ---
 name: montana
 title: Montana
+date_details: Whitefish, MT - August 25th
 description: Montana's celebration will take place in Whitefish, MT where we will get the chance to co-celebrate alongside Dan's father's and sister's birthdays (Roy's 70th and Sarah's 35th)!!! Additional details to follow...
+state_outline: montana.png
 ---

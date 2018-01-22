@@ -34,13 +34,14 @@ nav {
 		text-align: center;
 		line-height: 40px;
 		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-		color: #fff;
+		color: #222;
 		background: #00283c;
 		text-decoration: none;
 	}
 	/*Hover state for top level links*/
 	li:hover a {
 		background: gold;
+		color: #222
 	}
 	/*For website icon*/
 	li.hide a, li.hide:hover a {
@@ -122,5 +123,5 @@ nav {
 	/*show the center logo */
 	.web-logo {
 		display: block;
-	}	
+	}
 }
