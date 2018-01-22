@@ -24,5 +24,5 @@
   - SEO
 
 ### Various CSS Updates
-  - Renaming to better match naming for this specific site
+  - Renaming to better match pages for this specific site
   - Changing of colors and basic styles to reflect different styling needs
