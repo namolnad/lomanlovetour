@@ -7,6 +7,6 @@ location: Beard's Plaisance Park, Lake Harriet
 date_month_day: July 21st
 date_year: 2018
 time: 5-10pm
-description: Join Becca & Dan at Beard's Plaisance Park on Lake Harriet between 5-10pm for a casual-barbecue style day of celebrating! Come and go as you please. <br><br>More details to come...
+description: Join Becca and Dan at Beard's Plaisance Park on Lake Harriet between 5-10pm for a casual-barbecue style day of celebrating! Come and go as you please. <br><br>More details to come...
 state_outline: minnesota.png
 ---
