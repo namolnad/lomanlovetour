@@ -1,7 +1,12 @@
 ---
 name: california
 title: California
-date_details: Truckee, CA - June 23rd
+city: Truckee
+state: CA
+location: TBD
+date_month_day: June 23rd
+date_year: 2018
+time: TBD
 description: Friends one and all, come to our home away from home in Truckee, CA! Festivities abound!
 state_outline: california.png
 ---
