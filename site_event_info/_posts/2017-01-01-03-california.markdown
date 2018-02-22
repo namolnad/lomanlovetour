@@ -3,10 +3,10 @@ name: california
 title: California
 city: Truckee
 state: CA
-location: TBD
+location: Castle Peak meadow, 39°21'08.0"N 120°21'18.0"W
 date_month_day: June 23rd
 date_year: 2018
-time: TBD
-description: Friends one and all, come to our home away from home in Truckee, CA! Festivities abound!
+time: 5-10pm
+description: Friends one and all, come to our home away from home in Truckee, CA! We'll be hosting a celebration at the base of Castle Peak. It'll be very casual; think hiking garb. The location is a short hike away from where you'll park, so bring hiking / trail shoes. <br><br>If you'd like to spend the night, bring a tent and / or sleeping bags! It's in a National Forest, so no reservations are needed. There are plenty of Airbnb options nearby as well for those who'd like a toilet. 
 state_outline: california.png
 ---
