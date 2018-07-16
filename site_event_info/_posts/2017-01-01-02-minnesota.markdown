@@ -3,10 +3,10 @@ name: minnesota
 title: Minnesota
 city: Minneapolis
 state: MN
-location: Beard's Plaisance Park, Lake Harriet
+location: Beard's Plaisance Park, Lake Harriet (4525 S Upton Ave, Minneapolis, MN 55410)
 date_month_day: July 21st
 date_year: 2018
 time: 5-10pm
-description: Join Becca and Dan at Beard's Plaisance Park on Lake Harriet between 5-10pm for a casual-barbecue style day of celebrating! Come and go as you please. <br><br>More details to come...
+description: Join Becca and Dan at Beard's Plaisance Park on Lake Harriet between 5-10pm for an informal "open-house" picnic. All are welcome :)<br><br><b>Other Info</b><br>Attire: Informal, think summer picnic (e.g. shorts & t-shirt)<br>Food: We'll provide snacks, drinks and dinner for all!<br>Parking: There are a only a handful of parking spots right by the park so you may need to walk a little from parking spots along W Lake Harriet Pkwy. There's also street parking on the street above the gazebo, near 46th St W and Upton Ave S.
 state_outline: minnesota.png
 ---
