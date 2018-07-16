@@ -7,6 +7,6 @@ location: Beard's Plaisance Park, Lake Harriet
 date_month_day: July 21st
 date_year: 2018
 time: 5-10pm
-description: Join Becca and Dan at Beard's Plaisance Park on Lake Harriet between 5-10pm for an informal "open-house" picnic. All are welcome :)<br><br><b>Additional Details</b><br>Address`:` 4525 S Upton Ave, Minneapolis, MN 55410<br>Attire`:` Informal, think summer picnic (e.g. shorts & t-shirt)<br>Food`:` We'll provide snacks, drinks and dinner for all!<br>Parking`:` There are a only a handful of parking spots right by the park so you may need to walk a little from parking spots along W Lake Harriet Pkwy. There's also street parking on the street above the gazebo, near 46th St W and Upton Ave S
+description: Join Becca and Dan at Beard's Plaisance Park on Lake Harriet between 5-10pm for an informal "open-house" picnic. All are welcome :)<br><br><b>Additional Details</b><br>Address&#58; 4525 S Upton Ave, Minneapolis, MN 55410<br>Attire&#58; Informal, think summer picnic (e.g. shorts & t-shirt)<br>Food&#58; We'll provide snacks, drinks and dinner for all!<br>Parking&#58; There are a only a handful of parking spots right by the park so you may need to walk a little from parking spots along W Lake Harriet Pkwy. There's also street parking on the street above the gazebo, near 46th St W and Upton Ave S.
 state_outline: minnesota.png
 ---
